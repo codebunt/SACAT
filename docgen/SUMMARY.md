@@ -1,8 +1,11 @@
-# Summary
-* contracts
-  * [CarboTag](docs/CarboTag.md)
-  * [Factory](docs/Factory.md)
-  * [Migrations](docs/Migrations.md)
-  * [MultiSigWallet](docs/MultiSigWallet.md)
-  * [MultiSigWalletFactory](docs/MultiSigWalletFactory.md)
-  * [Stamper](docs/Stamper.md)
+# Table of contents
+
+* [Introduction](README.md)
+* [contracts](../contracts/README.md)
+  * [CarboTag](../contracts/carbotag.md)
+  * [Factory](../contracts/factory.md)
+  * [Migrations](../contracts/migrations.md)
+  * [MultiSigWallet](../contracts/multisigwallet.md)
+  * [MultiSigWalletFactory](../contracts/multisigwalletfactory.md)
+  * [Stamper](../contracts/stamper.md)
+
